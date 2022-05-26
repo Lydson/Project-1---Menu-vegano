@@ -1,0 +1,102 @@
+/* Criado por Lydson San Miguel - Habilidade Digital.
+Baseado no freecodecamp.org.
+Primeira imagem do fundo: Foto de Anna Shvets no Pexels.
+*/
+body {
+    background-image: url(https://images.pexels.com/photos/3876635/pexels-photo-3876635.jpeg?cs=srgb&dl=pexels-anna-shvets-3876635.jpg&fm=jpg);
+    background-size:cover;
+    font-family: sans-serif;
+    color: rgba(222, 220, 225, 1);
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    color: rgba(188, 237, 140, 1);
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: rgba(188, 237, 140, 1);
+  }
+  
+  .desde {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: rgba(39, 37, 43, 1);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70px;
+  }
+  hr {
+    height: 2px;
+    background-color: rgba(222, 220, 225, 1);
+    border-color: rgba(222, 220, 225, 1);
+  }
+  
+  .linha-inferior {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Lucida Handwriting, serif;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .pratos, .bebidas {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .preco {
+    text-align: right;
+    width: 25%;
+  }
+  
+  /* Cabeçalho */
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  .endereco {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: rgba(222, 220, 225, 1);
+  }
+  
+  a:visited {
+    color: rgba(64, 125, 31, 1);
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
